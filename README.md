@@ -72,7 +72,7 @@
 # Installation
 
 ```bash
-composer require godruoyi/ocr
+composer require skytian/ocr
 ```
 
 [Laravel 5 拓展包](https://github.com/godruoyi/laravel-ocr)
