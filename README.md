@@ -1,7 +1,9 @@
 # The Best Image Ocr SDK For BAT.
 
 > 注意：本库是基于godruoyi/ocr修改，由于阿里云接口有所变化故在此进行了修改，由于只使用了阿里云的营业执照识别，故对其他识别未做更改及测试。
-
+>
+> 修改了"doctrine/cache": "~1.6",应该不兼容php7.1及以上版本
+>
 [![Latest Stable Version](https://poser.pugx.org/godruoyi/ocr/v/stable)](https://packagist.org/packages/godruoyi/ocr)
 [![Total Downloads](https://poser.pugx.org/godruoyi/ocr/downloads)](https://packagist.org/packages/godruoyi/ocr)
 [![License](https://poser.pugx.org/godruoyi/ocr/license)](https://packagist.org/packages/godruoyi/ocr)
